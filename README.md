@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonu-007
 - 👀 I’m interested in ...javascript and web3
-- 🌱 I’m currently learning ...html,css,javascript
+- 🌱 I’m currently learning ...html,css,javascript,react,express Js, node js , mangoDb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
